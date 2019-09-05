@@ -1,0 +1,42 @@
+export const store = [
+  {
+    title: "Posty Posty",
+    comment: "First Post bunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatext",
+    url: "hello.com"
+  },
+  {
+    title: "Posty Two",
+    comment: "First Post bunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatext",
+    url: "hello.com"
+  },
+  {
+    title: "Posty Three",
+    comment: "First Post bunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatext",
+    url: "hello.com"
+  },
+  {
+    title: "Posty MO",
+    comment: "First Post bunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatext",
+    url: "hello.com"
+  },
+  {
+    title: "MO MO2",
+    comment: "First Post bunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatext",
+    url: "hello.com"
+  },
+  {
+    title: "MO MO3",
+    comment: "First Post bunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatext",
+    url: "hello.com"
+  },
+  {
+    title: "MO MO4",
+    comment: "First Post bunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatext",
+    url: "hello.com"
+  },
+  {
+    title: "MO MO5",
+    comment: "First Post bunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatextbunchatext",
+    url: "hello.com"
+  }
+];
